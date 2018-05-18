@@ -1,0 +1,9 @@
+[
+  {
+    "Description": "Avaya Server",
+    "Format": "ova",
+    "UserBucket": {
+        "S3Bucket": "disk-image-file-bucket-ova",
+        "S3Key": "vms/my-windows-2008-vm.ova"
+    }
+}]
