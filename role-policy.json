@@ -9,8 +9,8 @@
             "s3:ListBucket" 
          ],
          "Resource":[
-            "arn:aws:s3:::disk-image-file-bucket-ova",
-            "arn:aws:s3:::disk-image-file-bucket-ova/*"
+            "arn:aws:s3:::nome-do-bucket",
+            "arn:aws:s3:::nome-do-bucket/*"
          ]
       },
       {

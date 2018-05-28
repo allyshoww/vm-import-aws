@@ -1,9 +1,9 @@
 [
   {
-    "Description": "Avaya Server",
+    "Description": "My Description",
     "Format": "vmdk",
     "UserBucket": {
-        "S3Bucket": "disk-image-file-bucket-ova",
-        "S3Key": "OVF/Avaya_ServerEdition-disk1.vmdk"
+        "S3Bucket": "nome-do-bucket",
+        "S3Key": "my-vmdk.vmdk"
     }
 }]
