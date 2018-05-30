@@ -19,19 +19,18 @@ Para conseguir importar suas vm's para a AWS é necessário ter instalado em sua
 
 # Edite os seguintes campos do arquivo "containers.json"
 
-´´´
+
 Description
 S3 Bucket
 S3 Key
-´´´
+
 
 # Edite os seguintes campos do arquivo "role-policy.json
-´´´
+
   "Resource":[
             "arn:aws:s3:::nome-do-bucket",
             "arn:aws:s3:::nome-do-bucket/*"
          ]
-´´´
 
 
 ### Installing
